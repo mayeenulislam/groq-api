@@ -2,6 +2,8 @@
 
 Testing the Groq API
 
+<img width="746" alt="image" src="https://github.com/user-attachments/assets/8e105671-31af-4ad6-98e1-0aa12e7050ff">
+
 ## Getting Started
 
 ### Set the Groq API
