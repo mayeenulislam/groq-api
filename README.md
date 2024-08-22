@@ -13,7 +13,7 @@ Testing the Groq API
 export GROQ_API_KEY=<your-api-key-here>
 ```
 
->[!NOTE] Note
+> [!NOTE] Note
 > On Windows this will create an Environment variable with the value. On Mac and Linux this will set an environment variable for the terminal session
 
 ### Get and Run the Code
